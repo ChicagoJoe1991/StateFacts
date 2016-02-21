@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">StateFacts</string>
+    <string name="action_settings">Settings</string>
+    <string-array name="states">
+        <item>Illinois</item>
+        <item>New York</item>
+        <item>California</item>
+    </string-array>
+</resources>
