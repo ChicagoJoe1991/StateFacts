@@ -12,4 +12,6 @@
         <item>Springfield</item>
     </string-array>
     <string name="title_activity_city">CityActivity</string>
+    <string name="title_activity_chicago">ChicagoActivity</string>
+    <string name="chicago_title">Chicago</string>
 </resources>
