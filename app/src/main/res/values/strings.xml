@@ -6,4 +6,5 @@
         <item>New York</item>
         <item>California</item>
     </string-array>
+    <string name="title_activity_city">CityActivity</string>
 </resources>
