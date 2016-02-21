@@ -6,5 +6,10 @@
         <item>New York</item>
         <item>California</item>
     </string-array>
+    <string-array name="Illinois">
+        <item>Chicago</item>
+        <item>Evanston</item>
+        <item>Springfield</item>
+    </string-array>
     <string name="title_activity_city">CityActivity</string>
 </resources>
