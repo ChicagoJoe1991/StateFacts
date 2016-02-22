@@ -25,6 +25,14 @@
         <activity
             android:name=".ChicagoActivity"
             android:label="@string/title_activity_chicago"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".CaliforniaActivity"
+            android:label="@string/title_activity_california"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".LosAngelesActivity"
+            android:label="@string/title_activity_los_angeles"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

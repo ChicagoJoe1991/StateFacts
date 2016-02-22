@@ -14,4 +14,11 @@
     <string name="title_activity_city">CityActivity</string>
     <string name="title_activity_chicago">ChicagoActivity</string>
     <string name="chicago_title">Chicago</string>
+    <string name="title_activity_california">CaliforniaActivity</string>
+    <string-array name="california">
+        <item>Los Angeles</item>
+        <item>San Diego</item>
+        <item>San Francisco</item>
+    </string-array>
+    <string name="title_activity_los_angeles">LosAngelesActivity</string>
 </resources>

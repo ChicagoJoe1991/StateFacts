@@ -29,6 +29,10 @@ public class MainActivity extends AppCompatActivity {
                     Intent intent = new Intent(MainActivity.this, CityActivity.class);
                     startActivity(intent);
                 }
+                else if(position==1){
+                    Intent intent = new Intent(MainActivity.this, CaliforniaActivity.class);
+                    startActivity(intent);
+                }
             }
         };
         //grab the reference for the ListView
