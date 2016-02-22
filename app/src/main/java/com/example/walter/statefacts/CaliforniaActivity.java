@@ -25,6 +25,10 @@ public class CaliforniaActivity extends AppCompatActivity {
                     Intent intent = new Intent(CaliforniaActivity.this, LosAngelesActivity.class);
                     startActivity(intent);
                 }
+                if(position ==1){
+                    Intent intent = new Intent(CaliforniaActivity.this, SanDiegoActivity.class);
+                    startActivity(intent);
+                }
             }
 
         };

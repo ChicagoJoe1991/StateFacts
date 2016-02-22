@@ -21,4 +21,6 @@
         <item>San Francisco</item>
     </string-array>
     <string name="title_activity_los_angeles">LosAngelesActivity</string>
+    <string name="title_activity_new_york">NewYorkActivity</string>
+    <string name="title_activity_san_diego">SanDiegoActivity</string>
 </resources>

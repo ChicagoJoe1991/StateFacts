@@ -33,6 +33,14 @@
         <activity
             android:name=".LosAngelesActivity"
             android:label="@string/title_activity_los_angeles"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".NewYorkActivity"
+            android:label="@string/title_activity_new_york"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SanDiegoActivity"
+            android:label="@string/title_activity_san_diego"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 
