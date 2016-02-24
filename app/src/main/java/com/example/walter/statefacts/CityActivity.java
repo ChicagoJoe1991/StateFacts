@@ -27,6 +27,14 @@ public class CityActivity extends AppCompatActivity {
                     Intent intent = new Intent(CityActivity.this, ChicagoActivity.class);
                     startActivity(intent);
                 }
+                if(position==1){
+                    Intent intent = new Intent(CityActivity.this, EvanstonActivity.class);
+                    startActivity(intent);
+                }
+                if(position==2){
+                    Intent intent = new Intent(CityActivity.this, SpringfieldActivity.class);
+                    startActivity(intent);
+                }
             }
         };
         ListView listView = (ListView) findViewById(R.id.illinois_list_view);

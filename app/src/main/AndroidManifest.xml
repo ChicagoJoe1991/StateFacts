@@ -41,6 +41,14 @@
         <activity
             android:name=".SanDiegoActivity"
             android:label="@string/title_activity_san_diego"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".SpringfieldActivity"
+            android:label="@string/title_activity_springfield"
+            android:theme="@style/AppTheme.NoActionBar" />
+        <activity
+            android:name=".EvanstonActivity"
+            android:label="@string/title_activity_evanston"
             android:theme="@style/AppTheme.NoActionBar"></activity>
     </application>
 

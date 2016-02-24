@@ -23,4 +23,6 @@
     <string name="title_activity_los_angeles">LosAngelesActivity</string>
     <string name="title_activity_new_york">NewYorkActivity</string>
     <string name="title_activity_san_diego">SanDiegoActivity</string>
+    <string name="title_activity_springfield">SpringfieldActivity</string>
+    <string name="title_activity_evanston">EvanstonActivity</string>
 </resources>
